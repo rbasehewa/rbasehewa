@@ -1,8 +1,11 @@
 ### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Ryan Maddumahewa</h1>
 <h3 align="center">Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rbasehewa&label=Profile%20views&color=0e75b6&style=flat" alt="rbasehewa" /> </p>
+
+I am a frontend developer specialising in angular framework. I work for [Vocus] in Melbourne. I am obsessed with high quality working software and frontend technologies. I actively share my learnings on udemy and linkdin profiles.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rbasehewa" alt="rbasehewa" /></a> </p>
 
@@ -19,6 +22,7 @@
 - 📫 How to reach me **rbasehewa@gmail.com**
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
