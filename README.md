@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rbasehewa&label=Profile%20views&color=0e75b6&style=flat" alt="rbasehewa" /> </p>
 
-I am a frontend developer specialising in angular framework. I work for [Vocus] in Melbourne. I am obsessed with high quality working software and frontend technologies. I actively share my learnings on udemy and linkdin profiles.
+I am a frontend developer specialising in angular framework. I work for Vocus in Australia. I am obsessed with high quality working software and frontend technologies. I actively share my learnings on udemy and linkedin profiles.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rbasehewa" alt="rbasehewa" /></a> </p>
 
