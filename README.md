@@ -1,21 +1,22 @@
 <h1 align="center">Hi 👋, I'm Ryan Maddumahewa</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Full-stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rbasehewa&label=Profile%20views&color=0e75b6&style=flat" alt="rbasehewa" /> </p>
 
-I am a full-stack developer specialising in angular, react and NodeJS. I work for Vocus in Australia. I am obsessed with high-quality working software and frontend technologies. I actively share my learnings on udemy and linkedin profiles.
+I am a full-stack developer specialising in angular and react framework. I am obsessed with high quality working software and frontend technologies. I actively share my learnings on udemy and linkedin profiles.
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rbasehewa" alt="rbasehewa" /></a> </p>
 
 - 🔭 I’m currently working on [Vocus](https://www.dodo.com/)
 
-- 🌱 I’m currently learning **https://ngrx.io/**
+- 🌱 I’m currently learning **https://chillicream.com/docs/hotchocolate/v13**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rbasehewa](https://github.com/rbasehewa)
 
 - 📝 I regularly write articles on [https://rbasehewa.github.io/](https://rbasehewa.github.io/)
 
-- 💬 Ask me about **Angular**
+- 💬 Ask me about **Angular** **React** **Javascript** **CSS**  **PHP** **C#** 
 
 - 📫 How to reach me **rbasehewa@gmail.com**
 
