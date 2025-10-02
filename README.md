@@ -16,7 +16,7 @@ I am a full-stack developer specialising in angular and react framework. I am ob
 
 - 📝 I regularly write articles on [https://rbasehewa.github.io/](https://rbasehewa.github.io/)
 
-- 💬 Ask me about **Angular** **React** **Javascript** **CSS**  **PHP** **C#** 
+- 💬 Ask me about **Angular** **React** **Javascript** **CSS** **.NET** **PHP** **C#** 
 
 - 📫 How to reach me **rbasehewa@gmail.com**
 
