@@ -10,7 +10,7 @@ I am a full-stack developer specialising in angular and react framework. I am ob
 
 - 🔭 I’m currently working on [Ocean health Systems](https://oceanhealthsystems.com/)
 
-- 🌱 I’m currently learning **https://chillicream.com/docs/hotchocolate/v13**
+- 🌱 I’m currently learning **https://skillbuilder.aws/**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rbasehewa](https://github.com/rbasehewa)
 
