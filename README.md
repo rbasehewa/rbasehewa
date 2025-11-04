@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ryan Maddumahewa</h1>
+<h1 align="center">G'day 👋, I'm Ryan Maddumahewa</h1>
 <h3 align="center">Full-stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rbasehewa&label=Profile%20views&color=0e75b6&style=flat" alt="rbasehewa" /> </p>
