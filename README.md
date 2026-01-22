@@ -27,7 +27,7 @@ I am a full-stack developer specialising in angular and react framework. I am ob
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ryan maddumahewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan maddumahewa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ryanmaddumahewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan maddumahewa" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ryan maddumahewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ryan maddumahewa" height="30" width="40" /></a>
 <a href="https://fb.com/ryan maddumahewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ryan maddumahewa" height="30" width="40" /></a>
 <a href="https://instagram.com/rbasehewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rbasehewa" height="30" width="40" /></a>
